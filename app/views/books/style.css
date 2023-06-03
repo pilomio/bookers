@@ -1,0 +1,12 @@
+
+.book-item {
+  display: flex;
+  align-items: center;
+}
+
+.book-item::before {
+  content: "";
+  margin-right: 5px;
+}
+
+
